@@ -1,0 +1,2 @@
+**Alternatives**
+Asi mentioned previously, using VirtualBox and Vagrant at school doesn’t mean that all companies are going to work exactly the same way. Different tools are used, as well as different development workflows. We want you to understand how important it is to isolate your development environment from any host machine, whether it’s your personal computer or one of the school’s computers.
